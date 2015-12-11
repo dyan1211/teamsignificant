@@ -26,7 +26,7 @@ The approximate order of the notebooks are:
    [AIDS_vis](https://github.com/dyan1211/teamsignificant/blob/master/AIDs_vis.ipynb)
   
   
-Our project website can be found at https://sites.google.com/a/mail.harvard.edu/csproject/home
+Our project website can be found at https://sites.google.com/site/cs109projectteamsignificant/home
 
 Our project video can be found at https://youtu.be/JuxRVxczTrA
 
