@@ -30,5 +30,5 @@ Our project website can be found at https://sites.google.com/a/mail.harvard.edu/
 
 Our project video can be found at https://youtu.be/JuxRVxczTrA
 
-Dropbox for our data and grphaics can be found at 
+Dropbox for our data and graphics can be found at 
 https://www.dropbox.com/sh/lqfrpisxskq33bg/AADPkupnM4txB4zbZNM6YfBCa?dl=0
