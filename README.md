@@ -19,7 +19,7 @@ The approximate order of the notebooks are:
    
    [Topics+LDA](https://github.com/dyan1211/teamsignificant/blob/master/Topics+LDA.ipynb)
    
-   [Topic_Check](https://github.com/dyan1211/teamsignificant/blob/master/Topic_Check.ipynb)
+   [Topic_check](https://github.com/dyan1211/teamsignificant/blob/master/Topic_check.ipynb)
    
    [pubmed_request_function](https://github.com/dyan1211/teamsignificant/blob/master/pubmed_request_function.ipynb)
    
